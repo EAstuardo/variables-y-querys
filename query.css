@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-size: 18px;
+}
+@media (max-width: 600px) {
+    body {
+    background-color: lightblue;
+    font-size: 14px;
+    }
+}
+@media (min-width: 1024px) {
+    body {
+    background-color: rgb(17, 19, 17);
+    font-size: 20px;
+    border: 10px blue solid ;
+    }
+}
